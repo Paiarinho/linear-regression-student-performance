@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+
+# Dataset files
+data/*.csv
+data/*.parquet
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
