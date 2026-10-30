@@ -195,8 +195,8 @@ Example response:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd 01_regressao
+git clone https://github.com/Paiarinho/linear-regression-student-performance.git
+cd linear-regression-student-performance
 ```
 
 Create and activate a virtual environment:
